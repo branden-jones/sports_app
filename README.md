@@ -2,7 +2,7 @@
 Where local groups can manage themselves... ( *** MISSION STATEMENT *** )
 
 ## Wireframe Mockup Link
-[https://docs.google.com/document/d/1DGr4aYUpzGPydWSkQx6v9KYpwsYBJYQhut6nCoE_gTI/edit?usp=sharing]
+<a href="https://docs.google.com/document/d/1DGr4aYUpzGPydWSkQx6v9KYpwsYBJYQhut6nCoE_gTI/edit?usp=sharing" target="_blank" alt="link to google docs">Wireframes</a>
 
 
 ## Getting Started with Create React App
